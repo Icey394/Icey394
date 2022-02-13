@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Icey394
+- 👋 Hi, I’m @Salma
 - 👀 I’m interested in Artificial Intelligence and Machine Learning 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on App Development 
